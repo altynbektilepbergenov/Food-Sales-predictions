@@ -1,8 +1,6 @@
 # Food-Sales-predictions
 
 
-add first commit
-add second commit
 
 ![Logo](https://ml.globenewswire.com/Resource/Download/a4f3be8b-5c34-44b3-98a9-5b7e5338f271)
 
